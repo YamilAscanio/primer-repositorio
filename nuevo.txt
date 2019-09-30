@@ -1,1 +1,2 @@
 Este es el nuevo archivo
+segunda linea
